@@ -42,11 +42,12 @@ h3 {
 }
 
 .div3 {
-    background-color: #D5CEA3;
+    background-color: #E5E5CB;
+    
 }
 
 .div4 {
-    background-color: #E5E5CB;
+    background-color: #D5CEA3;
 }
 
 .div5 {
@@ -142,7 +143,8 @@ h3 {
 .skill-description {
 }
 
-.skill1-image {
+.skill-image {
+    min-width: 15%;
     max-width: 15%;
     height: auto;
 }
