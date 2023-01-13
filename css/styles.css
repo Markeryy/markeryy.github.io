@@ -127,3 +127,22 @@ h3 {
                         
 */
 
+.skill-header {
+    color: #1A120B;
+    padding: 20px 10px;
+}
+
+.skill-row {
+}
+
+.skill-title {
+    color: #1A120B;
+}
+
+.skill-description {
+}
+
+.skill1-image {
+    max-width: 15%;
+    height: auto;
+}
