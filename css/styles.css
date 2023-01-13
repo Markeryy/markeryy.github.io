@@ -8,8 +8,13 @@ font-family: 'Montserrat', sans-serif;
 
 /* TAG SELECTORS */
 
-body, h1, p {
+body, h1 {
     margin: 0px;
+}
+
+p {
+    margin: 0px;
+    font-family: sans-serif;
 }
 
 h2 {
@@ -25,6 +30,14 @@ h2 {
  
 .div2 {
     background-color: #FDA769;
+}
+
+.div4 {
+    background-color: #ABC270;
+}
+
+.div5 {
+    background-color: #473C33;
 }
 
 .avatar-icon {
