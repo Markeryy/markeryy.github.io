@@ -18,26 +18,31 @@ p {
 }
 
 h2 {
+    margin: 0px;
     font-family: 'Montserrat', sans-serif;
 }
 
 /* CLASS SELECTORS */
 .div1 {
-    background-color: black; 
+    background-color: #1A120B; 
     text-align: center;
     padding: 50px 0;
 }
  
 .div2 {
-    background-color: #FDA769;
+    background-color: #3C2A21;
+}
+
+.div3 {
+    background-color: #D5CEA3;
 }
 
 .div4 {
-    background-color: #ABC270;
+    background-color: #E5E5CB;
 }
 
 .div5 {
-    background-color: #473C33;
+    background-color: #1A120B;
 }
 
 .avatar-icon {
