@@ -1,3 +1,50 @@
-body {
-    background-color: blue;
+/*
+FONTS
+font-family: 'Martian Mono', monospace;
+font-family: 'Ubuntu Mono', monospace;
+font-family: 'Montserrat', sans-serif;
+*/
+
+
+/* TAG SELECTORS */
+
+body, h1, p {
+    margin: 0px;
 }
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* CLASS SELECTORS */
+.div1 {
+    background-color: black; 
+    text-align: center;
+    padding: 50px 0;
+}
+ 
+.div2 {
+    background-color: #FDA769;
+    height: 20px;
+}
+
+.avatar-icon {
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.name-header {
+    color: white;
+    font-family: 'Martian Mono', monospace;
+    margin-bottom: 10px;
+}
+
+.title-header {
+    color: white;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.title-highlight {
+    color: #FEC868;
+}
+
