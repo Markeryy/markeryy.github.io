@@ -35,7 +35,7 @@ h3 {
     text-align: center;
     padding: 50px 0;
 }
- 
+
 .div2 {
     background-color: #3C2A21;
     position: relative;
@@ -43,7 +43,7 @@ h3 {
 
 .div3 {
     background-color: #E5E5CB;
-    
+    text-align:center;
 }
 
 .div4 {
@@ -130,10 +130,14 @@ h3 {
 
 .skill-header {
     color: #1A120B;
-    padding: 20px 10px;
+    font-size: 45px;
+    padding: 65px 0;
 }
 
 .skill-row {
+    display: inline-block;
+    width: 50%;
+    margin: 0px auto 30px auto;
 }
 
 .skill-title {
@@ -141,10 +145,15 @@ h3 {
 }
 
 .skill-description {
+    padding: 10px;
+    line-height: 2;
 }
 
 .skill-image {
-    min-width: 15%;
-    max-width: 15%;
-    height: auto;
+    width: 30%;
 }
+
+.python-image {
+    margin-bottom: 20px;
+}
+
