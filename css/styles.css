@@ -8,6 +8,10 @@ font-family: 'Montserrat', sans-serif;
 
 /* TAG SELECTORS */
 
+html {
+    scroll-padding-top: 55px;  /* to add padding when anchor tag within page section is clicked */
+}
+
 body {
     margin: 0px;
 }
