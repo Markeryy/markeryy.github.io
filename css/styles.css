@@ -42,7 +42,6 @@ h3 {
 
 .div2 {
     background-color: #3C2A21;
-    position: relative;
 }
 
 .div3 {
@@ -104,26 +103,18 @@ h3 {
 */
 
 .profile-image {
-    max-width: 50%;
-    height: auto;
+    margin: auto;
+    text-align: center;
+    display: block;
 }
 
 .profile-header {
     color: #FEC868;
-    display: inline-block;
-    position: absolute;
-    top: 20%;
-    margin: auto 20px;
-
 }
 
 .profile-text {
     color: #E5E5CB;
-    display: inline-block;
-    position: absolute;
-    top: 40%;
     font-size: 20px;
-    margin: auto 20px;
 }
 
 /*
