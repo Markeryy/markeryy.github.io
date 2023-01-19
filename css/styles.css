@@ -196,10 +196,14 @@ h3 {
 }
 
 .contact-text {
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
-.contact-btn {
+.button-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* .contact-btn {
     background: #ada058;
     background-image: -webkit-linear-gradient(top, #ada058, #1A120B);
     background-image: -moz-linear-gradient(top, #ada058, #1A120B);
@@ -219,7 +223,7 @@ h3 {
 .contact-btn:hover {
     background: #a8a074;
     text-decoration: none;
-}
+} */
 
 /*
   ______          _            
